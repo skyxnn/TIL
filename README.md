@@ -23,6 +23,7 @@
     - [250205 | List #1-1](/Algorithm/250205.md)
     - [250206 | List #1-2](/Algorithm/250206.md)
     - [250207 | List #2-1](/Algorithm/250207.md)
+    - [250211 | List #2-2](/Algorithm/250211.md)
 
 ### 📙 ETC
 - ***Git***
